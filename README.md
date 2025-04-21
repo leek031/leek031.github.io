@@ -13,7 +13,7 @@ I received MS Degree in Electonrics and Electrical Engineering at Yonsei Univers
 - Professional Cloud Network Engineer, Professional Cloud Devops Engineer, Professional Machine Learning Engineer Certification ( Google Cloud, 2023/07/25, 2024/03/20, 2025/03/20 )
 - Customer Satisfaction, Passionately Professional
 
-~ 日本楽天グループのチーフデータアーキテクトでございます。 ハイブリッドアーキテクチャに基づくビッグデータプラットフォームに焦点を当てています。 2005年には韓国の延世大学で電子工学の修士号を取得しました。 その後、韓国のサムスン電子で12年間働きました。 シニアエンジーニアとしてサムスンスマートTVのための様々なデータプロジェクトを経験しました。
+~ 日本楽天グループのデータ＆AIアーキテクトでございます。 ハイブリッドアーキテクチャに基づくビッグデータプラットフォームに焦点を当てております。 2005年には韓国の延世大学で電子工学の修士号を取得しました。 その後、韓国のサムスン電子で12年間働きました。 シニアエンジーニアとしてサムスンスマートTVのための様々なデータプロジェクトを経験しました。
 
 - 20年の経験を持つ最高のプロフェッショナルソフトウェア開発
 - パブリッククラウドおよび社内インフラストラクチャ用のデータプラットフォームを備えた、さまざまなプロジェクトの作業
