@@ -7,7 +7,7 @@ I received MS Degree in Electonrics and Electrical Engineering at Yonsei Univers
 - Best professional S/W development with 20 year's experiences
 - Working miscellaneous projects with data platform for public cloud and in-house infrastructure
 - 4 Patents and TRIZ Consultant Certificate(Level II, III) -02/02325/A-41, 03/00972/A-03
-- 12 years working in Korea and 7 years working in Japan (Permanent Visa, JLPT N2 certificate)                                
+- 12 years working in Korea and 8 years working in Japan (Permanent Visa, JLPT N2 certificate)                                
 - Recommendation engine and advertisement platform (SSP, DSP) architecture design
 - ILT - Cloudera Custom Training - 2970368 ( 2022 Hadoop & Spark Specialist)
 - Professional Cloud Network Engineer, Professional Cloud Devops Engineer, Professional Machine Learning Engineer Certification ( Google Cloud, 2023/07/25, 2024/03/20, 2025/03/20 )
