@@ -13,12 +13,12 @@ I received MS Degree in Electonrics and Electrical Engineering at Yonsei Univers
 - Professional Cloud Network Engineer, Professional Cloud Devops Engineer, Professional Machine Learning Engineer Certification ( Google Cloud, 2023/07/25, 2024/03/20, 2025/03/20 )
 - Customer Satisfaction, Passionately Professional
 
-~ 日本楽天グループのデータ＆AIアーキテクトでございます。 ハイブリッドアーキテクチャに基づくビッグデータプラットフォームに焦点を当てております。 2005年には韓国の延世大学で電子工学の修士号を取得しました。 その後、韓国のサムスン電子で12年間働きました。 シニアエンジーニアとしてサムスンスマートTVのための様々なデータプロジェクトを経験しました。
+~ 楽天グループのデータ＆AIアーキテクトでございます。 ハイブリッドアーキテクチャに基づくビッグデータプラットフォームに焦点を当てております。 2005年には韓国の延世大学で電子工学の修士号を取得しました。 その後、韓国のサムスン電子で12年間働きました。 シニアエンジーニアとしてサムスンスマートTVのための様々なデータプロジェクトを経験しました。
 
 - 20年の経験を持つ最高のプロフェッショナルソフトウェア開発
 - パブリッククラウドおよび社内インフラストラクチャ用のデータプラットフォームを備えた、さまざまなプロジェクトの作業
 - 4 特許および TRIZ コンサルタント証明書 (レベル II、III) -02/02325/A-41, 03/00972/A-03
-- 韓国勤務12年、日本勤務7年（永住権、JLPT N2証明書）
+- 韓国勤務12年、日本勤務8年（永住権、JLPT N2証明書）
 - 推奨エンジンおよびアドバタイズメント プラットフォーム（SSP、 DSP) アーキテクチャ設計
 - ILT - Cloudera カスタムトレーニング - 2970368 (2022 Hadoop & Spark Specialist)
 - お客様の満足度及びプロフェッショナルな情熱を大切なことだと思います。引き続きよろしくお願い致します。
